@@ -10,8 +10,8 @@
 
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mason-c-lien-b1a694191#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mason-c-lien-b1a694191#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/mason-c-lien-b1a694191#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mason-c-lien-b1a694191#gh-dark-mode-only)
 
 <br />
 <br />
